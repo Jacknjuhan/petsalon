@@ -1,0 +1,6 @@
+njuics\demos\petsalon\repository\OwnerRepository.class
+njuics\demos\petsalon\model\Pet.class
+njuics\demos\petsalon\model\PetType.class
+njuics\demos\petsalon\model\Service.class
+njuics\demos\petsalon\model\Owner.class
+njuics\demos\petsalon\model\ServiceCategory.class
